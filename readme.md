@@ -486,7 +486,6 @@ I will soon publish a contributing.md listing the code style to use.
 * Youssef Touil
 * [Zimm](https://github.com/invader-zimm)
 
-
 ## Libraries used
 
 * [SoapySDR (PothosWare)](https://github.com/pothosware/SoapySDR)
